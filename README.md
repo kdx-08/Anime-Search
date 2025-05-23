@@ -17,7 +17,7 @@ A fun and interactive web app that allows users to **search for anime series, mo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/anime-search.git
+    git clone https://github.com/kdx-08/anime-search.git
     ```
 
 2. **Navigate to the project directory**:
