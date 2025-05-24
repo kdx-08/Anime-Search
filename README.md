@@ -17,12 +17,12 @@ A fun and interactive web app that allows users to **search for anime series, mo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/kdx-08/anime-search.git
+    git clone https://github.com/kdx-08/Anime-Search.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd anime-search
+    cd Anime-Search
     ```
 
 3. **Run the project** by opening `index.html` in your browser! 😎
